@@ -63,7 +63,7 @@ document.getElementsByTagName()
 **Trecho de programa**
 ```
 if (n==2){
-    console.log("O número é digitado é invalído")
+    console.log("O número digitado é invalído")
     ]
 ```
 
