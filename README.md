@@ -64,9 +64,11 @@ document.getElementsByTagName()
 ```
 if (n==2){
     console.log("O número digitado é invalído")
-    ]
+    }
 ```
 
 **Emoji**
 
 :smile_cat:
+
+**Como 
