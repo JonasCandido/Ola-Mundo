@@ -6,6 +6,8 @@ Repositório criado durante uma aula ao vivo!
 Essa linha eu adicionei diretamente no site QUE IMPRESSIONANTE!
 
 ## Pratica da linguagem Markdown 
+### Título de nível 3
+### Título de nível 4
 
 * **Negrito com asteriscos**
 * __Negrito com underlines__
@@ -32,11 +34,45 @@ Essa linha eu adicionei diretamente no site QUE IMPRESSIONANTE!
 - [ ] Tarefa 3
 - [ ] Tarefa 4
 
+**Linha com asteriscos**
+
+***
+
+**Linha com traço**
+
+---
+
 **Testando links**
 * Acesse meu [Instagram](https://www.instagram.com/candidod_jonas/)
 
 **Testando imagens**
 ![Foto do meu perfil](https://github.com/JonasCandido/Ola-Mundo/assets/135389969/20c36a44-c317-4324-bce7-5db8e5991be9)
 
+**Tabela**
+Nome|Ano de nasscimento|Sexo
+---|---|---
+Jonas|2007|Masculino
+Paulo|1980|Masculino
+Ana|1977|Feminino
+
+**Comando**
+`
+document.getElementsByTagName()
+`
+
+**Trecho de programa**
+```
+if (n==2){
+    console.log("O número é digitado é invalído")
+    ]
+```
+
+**Emoji**
+
+:smile_cat:
+
+**Para citações e marcar pessoas**
+
+@JonasCandido
 
 
