@@ -71,4 +71,7 @@ if (n==2){
 
 :smile_cat:
 
-**Como 
+**Para fazer reply de postagem**
+
+Exemplo:
+> **Emoji**
