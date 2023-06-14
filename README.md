@@ -70,9 +70,3 @@ if (n==2){
 **Emoji**
 
 :smile_cat:
-
-**Para citações e marcar pessoas**
-
-@JonasCandido
-
-
